@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://8lall0.github.io/posts/lorem_ipsum/</loc>
+    <lastmod>2020-11-05T23:32:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://8lall0.github.io/posts/</loc>
+    <lastmod>2020-11-05T23:32:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://8lall0.github.io/</loc>
+    <lastmod>2020-11-05T23:32:07+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://8lall0.github.io/categories/</loc>
   </url>
   
@@ -12,10 +27,6 @@
   
   <url>
     <loc>https://8lall0.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://8lall0.github.io/</loc>
   </url>
   
 </urlset>
