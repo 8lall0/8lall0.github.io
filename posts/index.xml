@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 05 Nov 2020 23:32:07 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 22:44:13 +0200</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lorem Ipsum</title>
-      <link>/posts/lorem_ipsum/</link>
-      <pubDate>Thu, 05 Nov 2020 23:32:07 +0100</pubDate>
-      <guid>/posts/lorem_ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <title>Hello World</title>
+      <link>/posts/2024-03-31-hello-world/</link>
+      <pubDate>Sun, 31 Mar 2024 22:44:13 +0200</pubDate>
+      <guid>/posts/2024-03-31-hello-world/</guid>
+      <description>Well, what to say&amp;hellip;&#xA;Welcome to my laboratory.</description>
     </item>
   </channel>
 </rss>
